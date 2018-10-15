@@ -1,0 +1,5 @@
+{
+    name: "FloatDivision",
+    files: [ "tis_float_div.c" ],
+    main: "main"
+}
